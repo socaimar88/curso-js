@@ -15,4 +15,5 @@ En la nube se conocen diferentes herramientas para el almacenaje - GITHUB
 -git push: subir los cambios al repo
 -git status: Muestra los cambios que no se han guardado
 - git add : agrega los cambios a la copia de git
+-git commit: agregamos un comentario soibre los cambiuos
 
