@@ -17,3 +17,9 @@ En la nube se conocen diferentes herramientas para el almacenaje - GITHUB
 - git add .: agrega los cambios a la copia de git
 - git commit -m "": agregamos un comentario soibre los cambiuos
 
+# HTML:
+
+- Debe de existir simepre un html.index este es el orquestador de las paginas en js y en css
+## necesario:
+- conocer las etiquetas
+- comprender y manejar los atributos

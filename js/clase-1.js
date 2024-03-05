@@ -3,3 +3,5 @@ let variable =10;
 // '//' una sola linea de codigo
 /* "varias lineas de codigo" */
 
+// js: js es un lenguaje que se ejecuta en el  navegador, no es compilado
+// necesita de html para ejecutarse y este ser asociado entre ellos
